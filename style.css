@@ -1,0 +1,69 @@
+.logo{
+    height: 80%;
+    width: 100%;
+    background-attachment: fixed;
+}
+.bodylogo{
+    background-color: #ec7e7e;
+}
+.title{
+    background-color: #ec7e7e;
+}
+.line2{
+    background-color:#800000 ;
+}
+a{
+    text-decoration: none;
+    color: #b5b0b0;
+}
+.left{
+    
+   
+    color:#070707
+}
+.bodylogin{
+    background-color: #e2eba1;
+}
+.submit{
+    background-color: rgb(246, 211, 211);
+}
+.reset{
+    background-color: rgb(242, 16, 16);
+}
+.h1{
+    background-color: #0d0d0d;
+    color: #f5f8f8;
+}
+.h3{
+    color: #2c2f2f;
+}
+.news1{
+    background-color: #3a3a3a;
+    color: #f8f5f5;
+}
+.news2{
+    background-color: #d9ea9c;
+    color: #0a0a0a;
+}
+.contact1{
+    background-color: #eaf9b5;
+    color: #0a0a0a;
+}
+.contact2{
+    background-color: #eb9b9b;
+    color: #0a0a0a;
+}
+.contacth3{
+    background-color: #090909;
+    color: #f3eded;
+}
+.noticeh1{
+    background-color: #3a3a3a;
+    color: #f8f5f5;
+}
+.th{
+    background-color: #2991f3;
+}
+.td1{
+    background-color: #a3cff9;
+}
